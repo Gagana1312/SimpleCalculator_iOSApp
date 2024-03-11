@@ -18,9 +18,9 @@ The Arithmetic iOS App is a simple, intuitive application designed to perform ba
 To run the Arithmetic iOS App on your device, follow these steps:
 
 1. Clone the repository to your local machine:
-   '''
-   git clone https://github.com/Gagana1312/ContactList_iOS-App.git
-   '''
+
+   git clone [https://github.com/Gagana1312/ContactList_iOS-App.git](https://github.com/Gagana1312/SimpleCalculator_iOSApp.git)
+   
 3. Open the project in Xcode by navigating to the project directory and opening the `.xcodeproj` file.
 4. Connect your iOS device or use the Xcode simulator to run the application.
 5. Once the app launches, enter numbers in the two input fields and choose an arithmetic operation to see the result.
